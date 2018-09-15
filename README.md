@@ -15,14 +15,14 @@ These features are available at development time for high-confidence app develop
 ## **Installing TypeScript:**
 1. Go to your command prompt, for windows: cmd
 1. **npm install -g typescript** (You need nodeJS installed in the system for this)
-![installing typescript](https://github.com/Anondo/tolerable-js/blob/master/img/install.png)
+![installing typescript](https://github.com/Anondo/tolerable-js/blob/master/img/install.png)<br>
 
 ## **Compiling TypeScript:**
 1. **Create a file with .ts extension**
 1. **Write TypeScript code in it**
-![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/code.png)
+![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/code.png)<br>
 1. **Type tsc filename.ts in the command prompt**
-![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/compile.png)
+![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/compile.png)<br>
 This should create a plain **filename.js** file which you can run like any other JS code. After all, it is JS code!
 
 Thats it, you are ready to go!
