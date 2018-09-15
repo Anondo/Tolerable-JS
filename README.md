@@ -19,9 +19,9 @@ These features are available at development time for high-confidence app develop
 
 ## **Compiling TypeScript:**
 1. **Create a file with .ts extension**
-1. **Write TypeScript code in it**
+1. **Write TypeScript code in it**<br>
 ![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/code.png)<br>
-1. **Type tsc filename.ts in the command prompt**
+1. **Type tsc filename.ts in the command prompt**<br>
 ![compiling typescript](https://github.com/Anondo/tolerable-js/blob/master/img/compile.png)<br>
 This should create a plain **filename.js** file which you can run like any other JS code. After all, it is JS code!
 
